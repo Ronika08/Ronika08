@@ -12,8 +12,6 @@
 - **Assistive Communication AI**  
   AI-based system to support communication accessibility  
 
-- **GhostPath**  
-  Privacy-focused personal memory vault with encrypted local storage  
 
 ---
 
