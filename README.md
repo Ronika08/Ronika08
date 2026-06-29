@@ -1,68 +1,161 @@
-# Hi, I'm Ronika S
+<h1 align="center">Ronika S</h1>
 
-Aspiring Software Engineer focused on Artificial Intelligence, Machine Learning, and Scalable Software Systems.
+<p align="center">
+Artificial Intelligence & Data Science Undergraduate | Software Developer | Data Analytics Enthusiast
+</p>
 
-I am passionate about building impactful software solutions, solving complex problems, and continuously improving my technical skills through real-world projects and algorithmic problem solving.
+<p align="center">
+<a href="https://github.com/Ronika08">GitHub</a> •
+<a href="https://www.linkedin.com/in/ronika-s-7647552a2/">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
+</p>
 
-## About Me
+---
 
-* Building expertise in Software Engineering, Artificial Intelligence, and Machine Learning
-* Actively strengthening Data Structures and Algorithms skills through LeetCode
-* Developing applications focused on accessibility, automation, and social impact
-* Exploring AI-powered solutions for communication, disaster management, and intelligent systems
-* Committed to continuous learning and professional growth
+# About Me
 
-## Areas of Interest
+I am an Artificial Intelligence & Data Science undergraduate passionate about building impactful software solutions through Artificial Intelligence, Data Analytics, and Full Stack Development.
 
-* Artificial Intelligence
-* Machine Learning
-* Data Structures & Algorithms
-* Software Engineering
-* Backend Development
-* System Design
-* Problem Solving
+I enjoy solving challenging problems, learning modern technologies, and building real-world projects that improve everyday life. Alongside software development, I actively practice Data Structures & Algorithms and participate in virtual industry experiences to strengthen my practical skills.
 
-## Featured Projects
+Currently focusing on:
 
-### Disaster Relief Coordination Portal
+- Data Structures & Algorithms
+- Artificial Intelligence & Machine Learning
+- Full Stack Development
+- Data Analytics
+- Software Engineering
+- Product-Based Company Interview Preparation
 
-A platform designed to connect volunteers, organizations, and affected communities during emergencies, enabling efficient resource coordination, communication, and support.
+---
 
-### Assistive Communication AI
+# Technical Skills
 
-An AI-powered communication system focused on improving accessibility and enabling more effective interactions through intelligent language assistance.
+## Programming Languages
 
-### DSA Journey
+- Python
+- C
+- C++
+- JavaScript
+- SQL
 
-A structured repository documenting algorithmic problem-solving practice, coding challenges, and continuous improvement in Data Structures and Algorithms.
+## Frontend
 
-## Current Focus
+- HTML5
+- CSS3
+- React.js
+- Tailwind CSS
+- Bootstrap
 
-* Advanced Data Structures and Algorithms
-* Artificial Intelligence and Machine Learning
-* Backend Development with Python and Node.js
-* Building scalable and production-ready applications
-* Open-source collaboration and technical growth
+## Backend
 
-## Technical Skills
+- Flask
+- Node.js
+- Express.js
 
-* Python
-* SQL
-* Node.js
-* Git
-* GitHub
-* Data Structures & Algorithms
-* Problem Solving
+## Databases
 
-## Goals
+- PostgreSQL
+- SQLite
+- MongoDB
+- MySQL
 
-* Contribute to impactful software projects
-* Develop expertise in Artificial Intelligence and Machine Learning
-* Build scalable software solutions
-* Continuously improve engineering and problem-solving skills
+## Data Analytics
 
-## Connect
+- Tableau
+- Microsoft Excel
+- Data Visualization
+- Business Intelligence
 
-LinkedIn: linkedin.com/in/ronika-s-7647552a2
+## AI & Machine Learning
 
-Email: [ronikaronu8867@gmail.com](mailto:ronikaronu8867@gmail.com)
+- TensorFlow
+- Scikit-Learn
+- NumPy
+- Pandas
+- NLTK
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- XAMPP
+
+---
+
+# Featured Projects
+
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| SakhiAI | AI-powered Women's Health Assistant | Flask, SQLite, AI |
+| Deloitte Data Analytics | Tableau Dashboard & Excel Analysis | Tableau, Excel |
+| DSA Journey | LeetCode and Interview Preparation | Python |
+| AI Application Compiler | AI-based Development Tool | Python |
+| Interactive Portfolio | Personal Portfolio Website | React |
+
+---
+
+# Virtual Experience Programs
+
+| Organization | Domain | Status |
+|--------------|--------|--------|
+| Deloitte Australia | Data Analytics | Completed |
+| Walmart | Advanced Software Engineering | In Progress |
+| Cisco | Cybersecurity | Planned |
+
+---
+
+# Certifications
+
+- Deloitte Australia Data Analytics Virtual Job Simulation – Forage
+- More certifications will be added as completed.
+
+---
+
+# Current Focus
+
+- Solving Data Structures & Algorithms problems daily
+- Building production-ready software projects
+- Learning System Design fundamentals
+- Strengthening Computer Science fundamentals (DBMS, Operating Systems, Computer Networks, OOP)
+- Preparing for Product-Based Software Engineering roles
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ronika08&show_icons=true&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronika08&hide_border=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronika08&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+# Contact
+
+GitHub
+
+https://github.com/Ronika08
+
+LinkedIn
+
+https://www.linkedin.com/in/ronika-s-7647552a2/
+
+Email
+
+your-ronikaronu8867@gmail.com
+
+---
+
+*"Consistency in learning and building is the foundation of long-term growth."*
