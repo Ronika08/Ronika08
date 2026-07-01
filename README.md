@@ -27,10 +27,7 @@ I am currently preparing for Software Development Engineer (SDE) roles while str
 ## Programming Languages
 
 * Python
-* C
-* C++
-* JavaScript
-* SQL
+* JAVA
 
 ## Frontend
 
